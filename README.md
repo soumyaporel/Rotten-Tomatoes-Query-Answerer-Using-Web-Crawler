@@ -1,6 +1,6 @@
 # Rotten-Tomatoes-Query-Answerer-Using-Web-Crawler
 
-Crawls pages in the RottenTomatoes website and extracts the required information from them by creating suitable grammar rules and parsing the HTML files/pages using the PLY package in python.
+Crawls pages in the RottenTomatoes website and extracts the required information from them according to user queries by creating suitable grammar rules and parsing the HTML files/pages using the PLY package in python.
 
 
 ### WEBSITE INFO:

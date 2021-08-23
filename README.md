@@ -9,7 +9,7 @@ Crawls pages in the RottenTomatoes website and extracts the required information
 	
 	
 ### DATA USED:
-	->  The 'rottentomatoes_genre_links.txt' file contains URL links for ten different genre-wise top 100 movie lists.
+	-> The 'rottentomatoes_genre_links.txt' file contains URL links for ten different genre-wise top 100 movie lists.
 	
 	
 ### EXECUTING THE PROGRAM:
@@ -19,7 +19,7 @@ Crawls pages in the RottenTomatoes website and extracts the required information
 
 ### PROGRAM FLOW:
 
-	->The user has to first input one of the ten genres.
+	-> The user has to first input one of the ten genres.
 	-> The 'rottentomatoes_genre_links.txt' file is scanned to get the link of the genre page.
 	-> Then the list of top 100 movies of that genre is printed on console by crawling the HTML file for that genre.
 	-> The user then selects a particular movie name from the list.
